@@ -8,7 +8,7 @@ const Logo = ({ className }: { className?: string }) => {
     <Link href="/" className={cn("flex items-center gap-3", className)}>
       {/* <Image alt="lazora logo" src={lazora} className="size-6" /> */}
       <h1 className="text-2xl font-canelaRegular text-inherit uppercase">
-        Lazora
+        Lazora Fork
       </h1>
     </Link>
   )
